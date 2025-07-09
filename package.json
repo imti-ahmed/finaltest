@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "react-scripts build",
+    "build": "vite build",
     "preview": "vite preview",
-    "start": "react-scripts start"
+    "start": "vite preview"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.11",
